@@ -6,13 +6,6 @@ board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
 
 puts "Welcome to Tic Tac Toe!"
 
-# puts "Would You like to be X or O?"
-# char = gets.strip
-# until char = "X" || "O"
-#   puts "Would You like to be X or O?"
-#   char = gets.strip
-# end
-
 display_board(board)
 
 # Make sure to execute #play below

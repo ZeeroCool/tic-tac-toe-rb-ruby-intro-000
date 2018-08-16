@@ -43,11 +43,11 @@ def turn(board)
 
 #     puts "Would you like to be X or O?"
 #     char = gets.strip
-# 
+#
 #     puts "Please enter 1-9:"
 #     input = gets.strip
 #     index = input_to_index(input)
-# 
+#
 # until valid_move?(board, index)
 #   puts "Try again, Please enter 1-9:"
 #   input = gets.strip
